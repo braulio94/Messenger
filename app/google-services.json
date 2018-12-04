@@ -1,0 +1,394 @@
+{
+  "project_info": {
+    "project_number": "707035378659",
+    "firebase_url": "https://visionariosmessaging-15254.firebaseio.com",
+    "project_id": "visionariosmessaging-15254",
+    "storage_bucket": "visionariosmessaging-15254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707035378659:android:e3a5a9dca6de603d",
+        "android_client_info": {
+          "package_name": "com.braulio.visionariosmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707035378659-2b7g1ivl2j9dj7027g6hi8ij2l83kb5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.braulio.visionariosmessaging",
+            "certificate_hash": "262c1937ac2b7b1f21f35bc655840d9dfd2a8e9c"
+          }
+        },
+        {
+          "client_id": "707035378659-v098ukfu2858hib250chlev96jh062mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP8rVUleVySws2aKEB6DeEmScSNTISTlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707035378659-v098ukfu2858hib250chlev96jh062mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707035378659:android:03492a9b857473a8",
+        "android_client_info": {
+          "package_name": "com.dionisio.user.wechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707035378659-45t19mmj2kfn0e6sab966iv49m6dj213.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dionisio.user.wechat",
+            "certificate_hash": "29ba7d936cda3d978458ba10da81c6ea89a3ee23"
+          }
+        },
+        {
+          "client_id": "707035378659-v098ukfu2858hib250chlev96jh062mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP8rVUleVySws2aKEB6DeEmScSNTISTlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707035378659-v098ukfu2858hib250chlev96jh062mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707035378659:android:06f83f7039afc466",
+        "android_client_info": {
+          "package_name": "com.elisacapololo.chattymessager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707035378659-d43pqq28m70dqe4qi0u8fpo9ah8l2q5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elisacapololo.chattymessager",
+            "certificate_hash": "fdd45fb91103f2406b0ecaec6eb8e6ef5990767f"
+          }
+        },
+        {
+          "client_id": "707035378659-v098ukfu2858hib250chlev96jh062mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP8rVUleVySws2aKEB6DeEmScSNTISTlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707035378659-v098ukfu2858hib250chlev96jh062mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707035378659:android:53de33f67101f09a",
+        "android_client_info": {
+          "package_name": "com.example.donilsonfrancisco.messangerapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707035378659-lstdmrg27tbtp837o4p9kg7gemjngk9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.donilsonfrancisco.messangerapps",
+            "certificate_hash": "1c1319c000d4342185359400ac492c9ea75c33b8"
+          }
+        },
+        {
+          "client_id": "707035378659-v098ukfu2858hib250chlev96jh062mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP8rVUleVySws2aKEB6DeEmScSNTISTlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707035378659-v098ukfu2858hib250chlev96jh062mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707035378659:android:5e9c11cd5c3754ce",
+        "android_client_info": {
+          "package_name": "com.example.ely.chatmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707035378659-3oevat11ovt1rsrjt3jrnarf3qpi9953.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ely.chatmessaging",
+            "certificate_hash": "22f32779ad9bf57650a447b3fc9bca85076fb1f4"
+          }
+        },
+        {
+          "client_id": "707035378659-v098ukfu2858hib250chlev96jh062mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP8rVUleVySws2aKEB6DeEmScSNTISTlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707035378659-v098ukfu2858hib250chlev96jh062mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707035378659:android:8627c57a9c391f95",
+        "android_client_info": {
+          "package_name": "com.example.hel.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707035378659-2htis48s16jo9pefk552q0mbs50appi6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hel.messenger",
+            "certificate_hash": "c6c67e3981727b7951c0bfa84403c25550b061d1"
+          }
+        },
+        {
+          "client_id": "707035378659-v098ukfu2858hib250chlev96jh062mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP8rVUleVySws2aKEB6DeEmScSNTISTlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707035378659-v098ukfu2858hib250chlev96jh062mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707035378659:android:73b8216cf70b16f4",
+        "android_client_info": {
+          "package_name": "com.example.hp.Chatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707035378659-v098ukfu2858hib250chlev96jh062mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP8rVUleVySws2aKEB6DeEmScSNTISTlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707035378659:android:bf5eb33a800af131",
+        "android_client_info": {
+          "package_name": "com.honoriojose.honorsmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707035378659-1m9dsr8lisq64004u6u4vmjpbr9d6sj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.honoriojose.honorsmessaging",
+            "certificate_hash": "e4647671efa7ccbe5c37a361d058aaeedaaccea2"
+          }
+        },
+        {
+          "client_id": "707035378659-v098ukfu2858hib250chlev96jh062mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP8rVUleVySws2aKEB6DeEmScSNTISTlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707035378659-v098ukfu2858hib250chlev96jh062mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707035378659:android:235359e29ca5f78f",
+        "android_client_info": {
+          "package_name": "com.morais.visionariosmessagegroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707035378659-kpkp6ulljfp2rgcn5924substfaup7bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.morais.visionariosmessagegroup",
+            "certificate_hash": "c9b11c6623ba51cd50fd950055171003c51115e1"
+          }
+        },
+        {
+          "client_id": "707035378659-v098ukfu2858hib250chlev96jh062mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP8rVUleVySws2aKEB6DeEmScSNTISTlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707035378659-v098ukfu2858hib250chlev96jh062mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
