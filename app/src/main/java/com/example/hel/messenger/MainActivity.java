@@ -43,8 +43,9 @@ public class MainActivity extends AppCompatActivity {
         if(requestCode == RC_SIGN_IN){
             IdpResponse response = IdpResponse.fromResultIntent(data);
 
-            if(requestCode == RESULT_OK){
-                //startActivity();
+            if(resultCode == RESULT_OK){
+                Intent intent = new Intent(this, SignedInActivity.class);
+                startActivity(intent);
                 finish();
             }else{
                 if (response == null){
