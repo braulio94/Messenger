@@ -10,7 +10,7 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="60dp"
         android:layout_alignParentLeft="true"
-        android:background="">
+     >
 
         <ImageView
             android:id="@+id/imageView_profile"
